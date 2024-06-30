@@ -3,7 +3,7 @@ include('config.php');
 session_start();
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <link rel="stylesheet" href="css/style.css">
